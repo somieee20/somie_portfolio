@@ -35,12 +35,14 @@ const greeting = {
 const socialMediaLinks = {
   github: "https://github.com/somieee20",
   linkedin: "https://www.linkedin.com/in/somieee20/",
-  gmail: "usamasom59@gmail.com",
-  hotmail: "usamasom99@hotmail.com",
-  gitlab: "https://gitlab.com/saadpasta",
-  facebook: "https://www.facebook.com/saad.pasta7",
-  medium: "https://medium.com/@saadpasta",
-  stackoverflow: "https://stackoverflow.com/users/10422806/saad-pasta",
+  gmail: "usamasom99@hotmail.com",
+  gitlab: "https://gitlab.com/somieee20",
+  facebook: "https://www.facebook.com/somie.20",
+  medium: "https://medium.com/@somie.20",
+  stackoverflow: "https://stackoverflow.com/users/20638287/muhammad-usama",
+  instagram: "https://www.instagram.com/somie.20/",
+  kaggle: "https://www.kaggle.com/somieeee",
+  twitter: "https://twitter.com/somieee20",
   // Instagram, Twitter and Kaggle are also supported in the links!
   // To customize icons and social links, tweak src/components/SocialMedia
   display: true // Set true to display this section, defaults to false
