@@ -36,7 +36,7 @@ const socialMediaLinks = {
   github: "https://github.com/somieee20",
   linkedin: "https://www.linkedin.com/in/somieee20/",
   gmail: "usamasom59@gmail.com",
-  outlook: "usamasom99@hotmail.com",
+  hotmail: "usamasom99@hotmail.com",
   gitlab: "https://gitlab.com/saadpasta",
   facebook: "https://www.facebook.com/saad.pasta7",
   medium: "https://medium.com/@saadpasta",
