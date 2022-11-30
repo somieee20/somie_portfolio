@@ -142,7 +142,7 @@ const educationInfo = {
       logo: require("./assets/images/FGS.png"),
       subHeader: "O/A Levels - Cambridge",
       duration: "September 2014 - July 2019",
-      desc: "Top Scoring Computer Science student for O/A Levels & Best Athlete winner for 4 straight years 2015-2019"
+      desc: "Top Scoring Computer Science student for O/A Levels & Best Athlete winner for 4 straight years 2015-2019",
       descBullets: [
       "A* in Computer Science (A Levels)", 
       "3A* 3A 2B in O Levels", 
