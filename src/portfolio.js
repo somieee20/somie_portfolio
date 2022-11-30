@@ -311,7 +311,6 @@ const blogSection = {
   subtitle:
     "With Love for Developing cool stuff, I love to write and teach others what I have learnt.",
   displayMediumBlogs: "true", // Set true to display fetched medium blogs instead of hardcoded ones
-  document.write("\n")
   blogs: [
     {
       url: "https://medium.com/@somie.20/containerd-for-your-compatibility-b0dd2c0e7aa0",
