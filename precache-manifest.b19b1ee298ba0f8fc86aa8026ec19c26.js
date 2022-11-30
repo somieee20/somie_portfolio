@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d249763b5275d6218c4523964d47776d",
+    "revision": "7769affc0a61fad7347a511797d18052",
     "url": "/index.html"
   },
   {
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/4.d7ceb645.chunk.css"
   },
   {
-    "revision": "013e18f200ccc684fe06",
+    "revision": "564b59f3c6f16dba5f35",
     "url": "/static/css/main.52a26c30.chunk.css"
   },
   {
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/4.a11c632d.chunk.js"
   },
   {
-    "revision": "013e18f200ccc684fe06",
-    "url": "/static/js/main.2940246c.chunk.js"
+    "revision": "564b59f3c6f16dba5f35",
+    "url": "/static/js/main.79d46de5.chunk.js"
   },
   {
     "revision": "ad4807f433e0cc6f12fa",
@@ -42,6 +42,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
     "url": "/static/media/Agustina.21f233e1.woff"
+  },
+  {
+    "revision": "55160e101467fa6fb94f4eac935fa852",
+    "url": "/static/media/FGS.55160e10.png"
   },
   {
     "revision": "ee6539921d713482b8ccd4d0d23961bb",
@@ -72,10 +76,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/googleAssistantLogo.e79c6392.webp"
   },
   {
-    "revision": "35ef5e915631be2c31ccdff55b53db29",
-    "url": "/static/media/harvardLogo.35ef5e91.png"
-  },
-  {
     "revision": "52be31441c8cf8a8a16bd7a228d428bf",
     "url": "/static/media/manOnTable.52be3144.svg"
   },
@@ -100,11 +100,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/skill.34409398.svg"
   },
   {
-    "revision": "3b758ef56d398145542e137daa28e392",
-    "url": "/static/media/stanfordLogo.3b758ef5.png"
-  },
-  {
     "revision": "13780cdd0144cacdef25486e2c2503f8",
     "url": "/static/media/talksCardBack.13780cdd.svg"
+  },
+  {
+    "revision": "69feb01fbcc4fcdda65890a8ce987c97",
+    "url": "/static/media/uni logo.69feb01f.png"
   }
 ]);
