@@ -120,7 +120,7 @@ const educationInfo = {
       logo: require("./assets/images/uni logo.png"),
       subHeader: "Bachelor of Science in Artificial Intelligence",
       duration: "September 2019 - Present",
-      desc: "Participated in the research of XXX and published 3 papers.",
+      desc: "Participated in the research of NLP techniques (LSTM) and published 1 paper.",
       descBullets: [
         "Dean's List Spring 2020 - 2nd Semester",
         "Courses: Computer Vision, Natural Language Procesing, Artificial Neural Networks, Machine Learning, Data Structures, Artificial Intelligence, DevOps, Programming for AI, Object Oriented Programming, Design & Analysis of Algorithms.",
