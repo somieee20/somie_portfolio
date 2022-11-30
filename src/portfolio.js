@@ -23,7 +23,7 @@ const greeting = {
   username: "Somie",
   title: "Hi all, I'm Usama",
   subTitle: emoji(
-    "An ardent Full Stack & AI Developer 🚀 having an experience of developing Artificially Intelligent Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native / Python and some other cool libraries and frameworks."
+    "An ardent Full Stack & AI Developer 🚀 having an experience of developing Artificially Intelligent Web and Mobile applications with JavaScript / Reactjs / Nodejs / Python and some other cool libraries and frameworks."
   ),
   resumeLink:
     "https://drive.google.com/file/d/1lBKq8gvj9NCsyAr73zipQYh3Y03HduPg/view?usp=share_link-0;", // Set to empty to hide the button
@@ -126,23 +126,24 @@ const educationInfo = {
   display: true, // Set false to hide this section, defaults to true
   schools: [
     {
-      schoolName: "Harvard University",
-      logo: require("./assets/images/harvardLogo.png"),
-      subHeader: "Master of Science in Computer Science",
-      duration: "September 2017 - April 2019",
+      schoolName: "National University of Computer and Emerging Sciences",
+      logo: require("./assets/images/uni logo.png"),
+      subHeader: "Bachelor of Science in Artificial Intelligence",
+      duration: "September 2019 - Present",
       desc: "Participated in the research of XXX and published 3 papers.",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+        "Dean's List Spring 2020 - 2nd Semester",
+        "Courses: Computer Vision, Natural Language Procesing, Artificial Neural Networks, Machine Learning, Data Structures, Artificial Intelligence, DevOps, Programming for AI, Object Oriented Programming, Design & Analysis of Algorithms.",
+        "Secretary General - Fast Artificial Intelligence and Data Science Society"
       ]
     },
     {
-      schoolName: "Stanford University",
-      logo: require("./assets/images/stanfordLogo.png"),
-      subHeader: "Bachelor of Science in Computer Science",
-      duration: "September 2013 - April 2017",
-      desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
-      descBullets: ["Lorem ipsum dolor sit amet, consectetur adipiscing elit"]
+      schoolName: "Fauji Fertilizer Higher Secondary School - FGS",
+      logo: require("./assets/images/FGS.png"),
+      subHeader: "O/A Levels - Cambridge",
+      duration: "September 2014 - July 2019",
+      desc: "Top Scoring Computer Science student for O/A Levels & Best Athlete winner for 4 straight years 2015-2019"
+      descBullets: ["A* in Computer Science (A Levels)", "3A*, 3A, 2B in O Levels", "Best Badminton Player 2016-2019", "Deputy Head Boy"]
     }
   ]
 };
