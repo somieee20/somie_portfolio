@@ -23,7 +23,7 @@ const greeting = {
   username: "Somie",
   title: "Hi all, I'm Usama",
   subTitle: emoji(
-    "An ardent Full Stack & AI Developer 🚀 having an experience of developing Artificially Intelligent Web and Mobile applications with JavaScript / Reactjs / Nodejs / Python and some other cool libraries and frameworks."
+    "An ardent Full Stack & AI Developer 🚀 having an experience of developing Artificially Intelligent Web and Mobile applications with JavaScript, Python and some other cool libraries and frameworks."
   ),
   resumeLink:
     "https://drive.google.com/file/d/1lBKq8gvj9NCsyAr73zipQYh3Y03HduPg/view?usp=share_link-0;", // Set to empty to hide the button
@@ -51,13 +51,11 @@ const skillsSection = {
   title: "What I do",
   subTitle: "CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
   skills: [
-    emoji(
-      "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"
-    ),
+    emoji("⚡ Design, develop, and implement novel computer version algorithms for unique use cases using deep learning frameworks such as TensorFlow, Keras, PyTorch, Caffe etc."),
+    emoji("⚡ Develop interactive Frontend / User Interfaces for your web and mobile applications"),
     emoji("⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks"),
-    emoji(
-      "⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean"
-    )
+    emoji("⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean / DockerHub / Azure"),
+    emoji("⚡ Aid in development of complex machine learning models using ANN to maximize predictive branding"),
   ],
 
   /* Make Sure to include correct Font Awesome Classname to view your icon
@@ -91,10 +89,6 @@ https://fontawesome.com/icons?d=gallery */
     {
       skillName: "swift",
       fontAwesomeClassname: "fab fa-swift"
-    },
-    {
-      skillName: "npm",
-      fontAwesomeClassname: "fab fa-npm"
     },
     {
       skillName: "sql-database",
@@ -156,7 +150,7 @@ const educationInfo = {
 // Your top 3 proficient stacks/tech experience
 
 const techStack = {
-  viewSkillBars: true, //Set it to true to show Proficiency Section
+  viewSkillBars: false, //Set it to true to show Proficiency Section
   experience: [
     {
       Stack: "Frontend/Design", //Insert stack or technology you have experience in
@@ -177,7 +171,7 @@ const techStack = {
 // Work experience section
 
 const workExperiences = {
-  display: true, //Set it to true to show workExperiences Section
+  display: false, //Set it to true to show workExperiences Section
   experience: [
     {
       role: "Software Engineer",
@@ -212,7 +206,7 @@ To know how to get github key look at readme.md */
 
 const openSource = {
   showGithubProfile: "true", // Set true or false to show Contact profile using Github, defaults to true
-  display: true // Set false to hide this section, defaults to true
+  display: false // Set false to hide this section, defaults to true
 };
 
 // Some big projects you have worked on
@@ -245,7 +239,7 @@ const bigProjects = {
       ]
     }
   ],
-  display: true // Set false to hide this section, defaults to true
+  display: false // Set false to hide this section, defaults to true
 };
 
 // Achievement Section
@@ -258,50 +252,59 @@ const achievementSection = {
 
   achievementsCards: [
     {
-      title: "Google Code-In Finalist",
+      title: "AWS Certified - Cloud Practitioner",
       subtitle:
-        "First Pakistani to be selected as Google Code-in Finalist from 4000 students from 77 different countries.",
-      image: require("./assets/images/codeInLogo.webp"),
-      imageAlt: "Google Code-In Logo",
+        "Completed my first foundational certification from AWS Academy as a Cloud Practitioner - Foundational.",
+      image: require("./assets/images/AWS.png"),
+      imageAlt: "Certification Badge",
       footerLink: [
         {
           name: "Certification",
-          url: "https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing"
+          url: "https://aws.amazon.com/certification/certified-cloud-practitioner/"
         },
         {
-          name: "Award Letter",
-          url: "https://drive.google.com/file/d/0B7kazrtMwm5dekxBTW5hQkg2WXUyR3QzQmR0VERiLXlGRVdF/view?usp=sharing"
-        },
-        {
-          name: "Google Code-in Blog",
-          url: "https://opensource.googleblog.com/2019/01/google-code-in-2018-winners.html"
+          name: "Certification Badge",
+          url: "https://www.credly.com/badges/13276efc-5de9-41db-9137-a08422e0a7d9"
         }
       ]
     },
     {
-      title: "Google Assistant Action",
+      title: "2nd Position in Artificial Intelligence Competition SOFTEC'22",
       subtitle:
-        "Developed a Google Assistant Action JavaScript Guru that is available on 2 Billion devices world wide.",
-      image: require("./assets/images/googleAssistantLogo.webp"),
-      imageAlt: "Google Assistant Action Logo",
+        "Developed an AI model using Machine Learning and Deep Learning techniques to predict Readmission for Heart Failure patients using a given dataset.",
+      image: require("./assets/images/softech.png"),
+      imageAlt: "Softech Competition Logo",
       footerLink: [
         {
-          name: "View Google Assistant Action",
-          url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en"
+          name: "Rules",
+          url: "https://softecnu.org/competitions/1"
+        },
+        {
+          name: "Competition",
+          url: "https://www.kaggle.com/competitions/aic-softec22-predict-readmission-for-heart-failure"
+        },
+        {
+          name: "Proposed Solution",
+          url: "https://www.kaggle.com/code/somieeee/softec-aic-956-2022"
         }
+        
       ]
     },
 
     {
-      title: "PWA Web App Developer",
-      subtitle: "Completed Certifcation from SMIT for PWA Web App Development",
-      image: require("./assets/images/pwaLogo.webp"),
-      imageAlt: "PWA Logo",
+      title: "1st Position in MLH - 2022 Season",
+      subtitle: "Performed data visualization using Python, Tableau and Sisense on pandemic data to classify trends of rising pandemic outbreak based on geo-location and created a mobile application that monitored nearby vaccine stations and informed the users about the availability of vaccine in the stations",
+      image: require("./assets/images/MLH.jpg"),
+      imageAlt: "Certification Logo",
       footerLink: [
         {name: "Certification", url: ""},
         {
-          name: "Final Project",
-          url: "https://pakistan-olx-1.firebaseapp.com/"
+          name: "Competition",
+          url: "https://mlh.io/seasons/2022/events"
+        },
+        {
+          name: "Standings",
+          url: "https://mlh.io/standings/na-2022"
         }
       ]
     }
