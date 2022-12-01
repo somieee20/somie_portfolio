@@ -323,6 +323,12 @@ const blogSection = {
         "A container runtime is essentially a component that mounts the container and interacts with the OS Kernel to begin the ‘containerization process’."
     },
     {
+      url: "https://medium.com/@somie.20/sigstore-sign-differently-5d49e1f4e4b4",
+      title: "Sigstore — Sign differently",
+      description:
+        "Sigstore enables program developers to safely sign programming antiques, for example, coding artifacts, code pictures, parallels, bill of material manifests and that’s just the beginning."
+    },
+    {
       url: "https://medium.com/@somie.20/amazon-web-services-aws-is-the-worlds-most-comprehensive-and-broadly-adopted-cloud-platform-f2b327f026b2",
       title: "Finch: An Open-Source Client for Container Development",
       description:
