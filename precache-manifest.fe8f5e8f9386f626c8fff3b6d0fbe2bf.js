@@ -1,43 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6c7b95a9f4c5f0ed938674636d1401b1",
+    "revision": "c437642edd6bb92ab43d8429ba2f6177",
     "url": "/index.html"
   },
   {
-    "revision": "075f5a4014c20d002714",
+    "revision": "822a8f3d155db05e8dad",
     "url": "/static/css/3.df879eac.chunk.css"
   },
   {
-    "revision": "a837d200c4102d0b1489",
+    "revision": "7a360a063e89eaaf9c31",
     "url": "/static/css/4.d7ceb645.chunk.css"
   },
   {
-    "revision": "35c6f724a764a4de8789",
+    "revision": "7bebb334a736f5baa857",
     "url": "/static/css/main.52a26c30.chunk.css"
   },
   {
-    "revision": "b5dda716c6fa08b55f44",
-    "url": "/static/js/2.5e87f097.chunk.js"
+    "revision": "b513cf3bc5c65451930b",
+    "url": "/static/js/2.47332178.chunk.js"
   },
   {
     "revision": "b045256696e9edb485ef902b6be54c14",
-    "url": "/static/js/2.5e87f097.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.47332178.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "075f5a4014c20d002714",
-    "url": "/static/js/3.2694d0f6.chunk.js"
+    "revision": "822a8f3d155db05e8dad",
+    "url": "/static/js/3.07f8f4b8.chunk.js"
   },
   {
-    "revision": "a837d200c4102d0b1489",
-    "url": "/static/js/4.7e77a6e9.chunk.js"
+    "revision": "7a360a063e89eaaf9c31",
+    "url": "/static/js/4.3834c8de.chunk.js"
   },
   {
-    "revision": "35c6f724a764a4de8789",
-    "url": "/static/js/main.26ec6edd.chunk.js"
+    "revision": "7bebb334a736f5baa857",
+    "url": "/static/js/main.7cd13357.chunk.js"
   },
   {
-    "revision": "96880f5f08729098750e",
-    "url": "/static/js/runtime-main.7cecf5d1.js"
+    "revision": "53a8a5296169f68c6ab7",
+    "url": "/static/js/runtime-main.4134f3b7.js"
   },
   {
     "revision": "25ede0a68143e8c852fd634ce70c16b3",
@@ -60,8 +60,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Montserrat-Regular.ee653992.ttf"
   },
   {
-    "revision": "c59720d63dc3595a12e1c7e641a1bfa5",
-    "url": "/static/media/airbnbLogo.c59720d6.png"
+    "revision": "e1d1e74472fc19b8cfd3577a753266a0",
+    "url": "/static/media/Skelia.e1d1e744.png"
   },
   {
     "revision": "51cf7192327488da3d2a171280680c16",
@@ -72,12 +72,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/developerActivity.59389695.svg"
   },
   {
-    "revision": "52be31441c8cf8a8a16bd7a228d428bf",
-    "url": "/static/media/manOnTable.52be3144.svg"
+    "revision": "cfd18fb991e8354f9a79ca8fb416e111",
+    "url": "/static/media/ffc.cfd18fb9.png"
   },
   {
-    "revision": "4b2938b9f5ea2f1ddbd45dccaff628bc",
-    "url": "/static/media/quoraLogo.4b2938b9.png"
+    "revision": "52be31441c8cf8a8a16bd7a228d428bf",
+    "url": "/static/media/manOnTable.52be3144.svg"
   },
   {
     "revision": "3440939881da8339d1597e8d77cdf850",
@@ -90,6 +90,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "13780cdd0144cacdef25486e2c2503f8",
     "url": "/static/media/talksCardBack.13780cdd.svg"
+  },
+  {
+    "revision": "0ae36b5c0d08ec105cc95e65868fdb55",
+    "url": "/static/media/tech.0ae36b5c.png"
   },
   {
     "revision": "69feb01fbcc4fcdda65890a8ce987c97",
