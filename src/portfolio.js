@@ -129,9 +129,22 @@ const workExperiences = {
       ]
     },
     {
+      role: "AI Programmer",
+      company: "Skelia",
+      companylogo: require("./assets/images/Skelia.png"),
+      date: "Nov 2021 - Jul 2022",
+      desc: "Skelia is an international leader in building cross-border IT and engineering organizations and affiliate companies in Eastern-Europe.",
+      descBullets: [
+        "Aided in development of complex machine learning models using ANN to maximize predictive branding",
+        "Helping to develop complex analytical algorithms to produce visual representation of decentralized data",
+        "Designed and shipped 7 ML models using OpenCV, Scikit-Learn and NN modules with efficiencies above 86%",
+        "Interpreted 70+ complex simulation datasets using statistical methods"
+      ]
+    },
+    {
       role: "Information Technology Intern",
       company: "Fauji Fertilizer Company Ltd.",
-      companylogo: require("./assets/images/ffc.png"),
+      companylogo: require("./assets/images/ffc.jpg"),
       date: "Aug 2021 - Sep 2021",
       desc: "Fauji Fertilizer Company Limited is a Pakistani chemical company which produces chemical fertilizer. FFC produces or markets various fertilizers which include urea, DAP, SOP, MOP, Boron and Zinc.",
       descBullets: [
@@ -151,18 +164,17 @@ const workExperiences = {
         "Coordinated, created and scheduled content, designs and periodic updates to company website",
         "Developed creative design for marketing packages, including printing materials, brochures, social media posts, banners and signs"
       ]
-    },
+    }
     {
-      role: "AI Programmer",
-      company: "Skelia",
-      companylogo: require("./assets/images/Skelia.png"),
-      date: "Nov 2021 - Jul 2022",
-      desc: "Skelia is an international leader in building cross-border IT and engineering organizations and affiliate companies in Eastern-Europe.",
-      descBullets: [
-        "Aided in development of complex machine learning models using ANN to maximize predictive branding",
-        "Helping to develop complex analytical algorithms to produce visual representation of decentralized data",
-        "Designed and shipped 7 ML models using OpenCV, Scikit-Learn and NN modules with efficiencies above 86%",
-        "Interpreted 70+ complex simulation datasets using statistical methods"
+      role: "Junior Web Developer",
+      company: "Redot Global",
+      companylogo: require("./assets/images/red.jpg"),
+      date: "Jun 2020 - Jul 2020",
+      desc: "Redot Global offers custom digital solutions across the technologies and industries all around the globe.",
+      descBullets: []
+        "Troubleshoot different websites of the company's clients by the use of the modern frameworks like Django, Vue.js, Angular and Flask",
+        "Consistently received high user experience scores for all web development projects, including a 12% traffic increase for Redot Global",
+        "Got Recognition for one of my sites for Best Navigation and Structure"
       ]
     }
   ]
