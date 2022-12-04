@@ -179,11 +179,8 @@ const workExperiences = {
         "Worked on developing an intelligent parking management system as a service-based product using IoT devices",
         "Used python technologies that include PyTorch, Keras, Matplotlib, SciPy, TensorFlow, and Chainer contributed to the development of the frontend and backend modules of the project",
         "Tested models: YOLO Family, RCNN Family, Histogram of Oriented Gradients (HOG), Spatial Pyramid Pooling (SPP-net) for object detection",
-        "Deployed the product on various parking areas and achieved an accuracy of 97.5%"
-        {
-          name: "Certification Badge",
-          url: "https://www.credly.com/badges/13276efc-5de9-41db-9137-a08422e0a7d9"
-        }
+        "Deployed the product on various parking areas and achieved an accuracy of 97.5%",
+        "https://gitlab.com/Maria786/parking-lot-monitoring-system/-/tree/main"
       ]
     },
     {
