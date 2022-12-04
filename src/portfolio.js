@@ -170,14 +170,17 @@ const workExperiences = {
   display: false, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Software Engineer",
-      company: "Facebook",
-      companylogo: require("./assets/images/facebookLogo.png"),
-      date: "June 2018 – Present",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      role: "Machine Learning Intern",
+      company: "Neurog",
+      companylogo: require("./assets/images/Neurog.png"),
+      date: "Jul 2022 - Sep 2022",
+      desc: "Neurog is an artificial intelligence research & development company based in Pakistan, UAE, and Australia. At Neurog, make your daring new ideas a reality by developing cutting-edge solutions that draw on valuable knowledge in the fields of ML and AI.",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+        "Worked on developing an intelligent parking management system as a service-based product using IoT devices",
+        "Used python technologies that include PyTorch, Keras, Matplotlib, SciPy, TensorFlow, and Chainer contributed to the development of the frontend and backend modules of the project",
+        "Tested models: YOLO Family, RCNN Family, Histogram of Oriented Gradients (HOG), Spatial Pyramid Pooling (SPP-net) for object detection",
+        "Deployed the product on various parking areas and achieved an accuracy of 97.5%",
+        "<a href="https://gitlab.com/Maria786/parking-lot-monitoring-system">Project</a>"
       ]
     },
     {
