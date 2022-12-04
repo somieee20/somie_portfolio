@@ -1,43 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d1903afeb2ed33ccd3f33d97a8b6a293",
+    "revision": "887b2c651a3be945b30524c6cf0c4672",
     "url": "/index.html"
   },
   {
-    "revision": "f9527c24d14000961155",
+    "revision": "075f5a4014c20d002714",
     "url": "/static/css/3.df879eac.chunk.css"
   },
   {
-    "revision": "6ca279f80a55edded95a",
+    "revision": "a837d200c4102d0b1489",
     "url": "/static/css/4.d7ceb645.chunk.css"
   },
   {
-    "revision": "5993d2684ff02eb6f501",
+    "revision": "d30c81f368312a5e6c1b",
     "url": "/static/css/main.52a26c30.chunk.css"
   },
   {
-    "revision": "52adeae056931d282839",
-    "url": "/static/js/2.705ca785.chunk.js"
+    "revision": "b5dda716c6fa08b55f44",
+    "url": "/static/js/2.5e87f097.chunk.js"
   },
   {
     "revision": "b045256696e9edb485ef902b6be54c14",
-    "url": "/static/js/2.705ca785.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.5e87f097.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f9527c24d14000961155",
-    "url": "/static/js/3.6bb4b2b8.chunk.js"
+    "revision": "075f5a4014c20d002714",
+    "url": "/static/js/3.2694d0f6.chunk.js"
   },
   {
-    "revision": "6ca279f80a55edded95a",
-    "url": "/static/js/4.a11c632d.chunk.js"
+    "revision": "a837d200c4102d0b1489",
+    "url": "/static/js/4.7e77a6e9.chunk.js"
   },
   {
-    "revision": "5993d2684ff02eb6f501",
-    "url": "/static/js/main.38964936.chunk.js"
+    "revision": "d30c81f368312a5e6c1b",
+    "url": "/static/js/main.cdb072e1.chunk.js"
   },
   {
-    "revision": "ad4807f433e0cc6f12fa",
-    "url": "/static/js/runtime-main.9d3f2436.js"
+    "revision": "96880f5f08729098750e",
+    "url": "/static/js/runtime-main.7cecf5d1.js"
   },
   {
     "revision": "25ede0a68143e8c852fd634ce70c16b3",
@@ -76,16 +76,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/manOnTable.52be3144.svg"
   },
   {
-    "revision": "829ad0a1deef4d7295adfecdf12df2be",
-    "url": "/static/media/nextuLogo.829ad0a1.webp"
-  },
-  {
     "revision": "4b2938b9f5ea2f1ddbd45dccaff628bc",
     "url": "/static/media/quoraLogo.4b2938b9.png"
-  },
-  {
-    "revision": "25018d29d5ab115bc51c3e9a2d92f90f",
-    "url": "/static/media/saayaHealthLogo.25018d29.webp"
   },
   {
     "revision": "3440939881da8339d1597e8d77cdf850",
