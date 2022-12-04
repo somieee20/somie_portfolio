@@ -164,7 +164,7 @@ const workExperiences = {
         "Coordinated, created and scheduled content, designs and periodic updates to company website",
         "Developed creative design for marketing packages, including printing materials, brochures, social media posts, banners and signs"
       ]
-    }
+    },
     {
       role: "Junior Web Developer",
       company: "Redot Global",
