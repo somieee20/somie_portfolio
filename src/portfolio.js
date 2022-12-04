@@ -110,6 +110,41 @@ https://fontawesome.com/icons?d=gallery */
   display: true // Set false to hide this section, defaults to true
 };
 
+// Work experience section
+
+const workExperiences = {
+  display: true, //Set it to true to show workExperiences Section
+  experience: [
+    {
+      role: "Machine Learning Intern",
+      company: "Neurog",
+      companylogo: require("./assets/images/Neurog.png"),
+      date: "Jul 2022 - Sep 2022",
+      desc: "Neurog is an artificial intelligence research & development company based in Pakistan, UAE, and Australia.",
+      descBullets: [
+        "Worked on developing an intelligent parking management system as a service-based product using IoT devices",
+        "Used python technologies that include PyTorch, Keras, Matplotlib, SciPy, TensorFlow, and Chainer.",
+        "Tested models: YOLO Family, RCNN Family, HOG and SPP-net for object detection with Deep-Sort for object tracking",
+        "Deployed the product on various parking areas and achieved an accuracy of 97.5%"
+      ]
+    },
+    {
+      role: "Front-End Developer",
+      company: "Quora",
+      companylogo: require("./assets/images/quoraLogo.png"),
+      date: "May 2017 – May 2018",
+      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    {
+      role: "Software Engineer Intern",
+      company: "Airbnb",
+      companylogo: require("./assets/images/airbnbLogo.png"),
+      date: "Jan 2015 – Sep 2015",
+      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    }
+  ]
+};
+
 // Education Section
 
 const educationInfo = {
@@ -164,41 +199,7 @@ const techStack = {
   displayCodersrank: false // Set true to display codersrank badges section need to changes your username in src/containers/skillProgress/skillProgress.js:17:62, defaults to false
 };
 
-// Work experience section
 
-const workExperiences = {
-  display: true, //Set it to true to show workExperiences Section
-  experience: [
-    {
-      role: "Machine Learning Intern",
-      company: "Neurog",
-      companylogo: require("./assets/images/Neurog.png"),
-      date: "Jul 2022 - Sep 2022",
-      desc: "Neurog is an artificial intelligence research & development company based in Pakistan, UAE, and Australia. At Neurog, make your daring new ideas a reality by developing cutting-edge solutions that draw on valuable knowledge in the fields of ML and AI.",
-      descBullets: [
-        "Worked on developing an intelligent parking management system as a service-based product using IoT devices",
-        "Used python technologies that include PyTorch, Keras, Matplotlib, SciPy, TensorFlow, and Chainer contributed to the development of the frontend and backend modules of the project",
-        "Tested models: YOLO Family, RCNN Family, Histogram of Oriented Gradients (HOG), Spatial Pyramid Pooling (SPP-net) for object detection",
-        "Deployed the product on various parking areas and achieved an accuracy of 97.5%",
-        "https://gitlab.com/Maria786/parking-lot-monitoring-system/-/tree/main"
-      ]
-    },
-    {
-      role: "Front-End Developer",
-      company: "Quora",
-      companylogo: require("./assets/images/quoraLogo.png"),
-      date: "May 2017 – May 2018",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-    },
-    {
-      role: "Software Engineer Intern",
-      company: "Airbnb",
-      companylogo: require("./assets/images/airbnbLogo.png"),
-      date: "Jan 2015 – Sep 2015",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-    }
-  ]
-};
 
 /* Your Open Source Section to View Your Github Pinned Projects
 To know how to get github key look at readme.md */
@@ -215,30 +216,19 @@ const bigProjects = {
   subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
   projects: [
     {
-      image: require("./assets/images/saayaHealthLogo.webp"),
-      projectName: "Saayahealth",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      image: require("./assets/images/Neurog.png"),
+      projectName: "AI Based Parking Management System",
+      projectDesc: "Artificially intelligent parking management system that tracks parking spaces in real-time provinding space reservation, driver info and other facilities.",
       footerLink: [
         {
-          name: "Visit Website",
-          url: "http://saayahealth.com/"
+          name: "Project",
+          url: "https://gitlab.com/Maria786/parking-lot-monitoring-system/-/tree/main"
         }
         //  you can add extra buttons here.
       ]
-    },
-    {
-      image: require("./assets/images/nextuLogo.webp"),
-      projectName: "Nextu",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-      footerLink: [
-        {
-          name: "Visit Website",
-          url: "http://nextu.se/"
-        }
-      ]
     }
   ],
-  display: false // Set false to hide this section, defaults to true
+  display: true // Set false to hide this section, defaults to true
 };
 
 // Achievement Section
