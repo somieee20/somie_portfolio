@@ -171,7 +171,7 @@ const workExperiences = {
       companylogo: require("./assets/images/red.jpg"),
       date: "Jun 2020 - Jul 2020",
       desc: "Redot Global offers custom digital solutions across the technologies and industries all around the globe.",
-      descBullets: []
+      descBullets: [
         "Troubleshoot different websites of the company's clients by the use of the modern frameworks like Django, Vue.js, Angular and Flask",
         "Consistently received high user experience scores for all web development projects, including a 12% traffic increase for Redot Global",
         "Got Recognition for one of my sites for Best Navigation and Structure"
