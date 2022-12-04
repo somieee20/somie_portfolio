@@ -123,24 +123,47 @@ const workExperiences = {
       desc: "Neurog is an artificial intelligence research & development company based in Pakistan, UAE, and Australia.",
       descBullets: [
         "Worked on developing an intelligent parking management system as a service-based product using IoT devices",
-        "Used python technologies that include PyTorch, Keras, Matplotlib, SciPy, TensorFlow, and Chainer.",
+        "Used python technologies that include PyTorch, Keras, Matplotlib, SciPy, TensorFlow, and Chainer",
         "Tested models: YOLO Family, RCNN Family, HOG and SPP-net for object detection with Deep-Sort for object tracking",
         "Deployed the product on various parking areas and achieved an accuracy of 97.5%"
       ]
     },
     {
-      role: "Front-End Developer",
-      company: "Quora",
-      companylogo: require("./assets/images/quoraLogo.png"),
-      date: "May 2017 – May 2018",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      role: "Information Technology Intern",
+      company: "Fauji Fertilizer Company Ltd.",
+      companylogo: require("./assets/images/ffc.png"),
+      date: "Aug 2021 - Sep 2021",
+      desc: "Fauji Fertilizer Company Limited is a Pakistani chemical company which produces chemical fertilizer. FFC produces or markets various fertilizers which include urea, DAP, SOP, MOP, Boron and Zinc.",
+      descBullets: [
+        "Researched on how SAP ERP system executes the business logic, client transactions and running jobs",
+        "Developed a 3-tier automated system using client server architecture to fully automate the responses from an active super system for the company users",
+        "Used Python's ML techniques on company's data stream to develop risk analysis models on valve leakages, pipe bursts and electric shutdown"
+      ]
     },
     {
-      role: "Software Engineer Intern",
-      company: "Airbnb",
-      companylogo: require("./assets/images/airbnbLogo.png"),
-      date: "Jan 2015 – Sep 2015",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      role: "UI Designer",
+      company: "Techlogix",
+      companylogo: require("./assets/images/tech.png"),
+      date: "Nov 2020 - Feb 2021",
+      desc: "Techlogix is an information technology, consulting, and business solutions company that helps enterprises use innovation and emerging technologies to digitally transform their businesses.",
+      descBullets: [
+        "Developed collateral such as display, marketing and packaging materials to support product branding strategies",
+        "Coordinated, created and scheduled content, designs and periodic updates to company website",
+        "Developed creative design for marketing packages, including printing materials, brochures, social media posts, banners and signs"
+      ]
+    },
+    {
+      role: "AI Programmer",
+      company: "Skelia",
+      companylogo: require("./assets/images/Skelia.png"),
+      date: "Nov 2021 - Jul 2022",
+      desc: "Skelia is an international leader in building cross-border IT and engineering organizations and affiliate companies in Eastern-Europe.",
+      descBullets: [
+        "Aided in development of complex machine learning models using ANN to maximize predictive branding",
+        "Helping to develop complex analytical algorithms to produce visual representation of decentralized data",
+        "Designed and shipped 7 ML models using OpenCV, Scikit-Learn and NN modules with efficiencies above 86%",
+        "Interpreted 70+ complex simulation datasets using statistical methods"
+      ]
     }
   ]
 };
