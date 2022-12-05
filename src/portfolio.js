@@ -146,7 +146,7 @@ const workExperiences = {
       company: "Fauji Fertilizer Company Ltd.",
       companylogo: require("./assets/images/ffc.jpg"),
       date: "Aug 2021 - Sep 2021",
-      desc: "Fauji Fertilizer Company Limited is a Pakistani chemical company which produces chemical fertilizer. FFC produces or markets various fertilizers which include urea, DAP, SOP, MOP, Boron and Zinc.",
+      desc: "Fauji Fertilizer Company Limited is a Pakistani chemical company which produces chemical fertilizer.",
       descBullets: [
         "Researched on how SAP ERP system executes the business logic, client transactions and running jobs",
         "Developed a 3-tier automated system using client server architecture to fully automate the responses from an active super system for the company users",
