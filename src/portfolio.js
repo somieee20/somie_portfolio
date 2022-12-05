@@ -152,7 +152,7 @@ const workExperiences = {
         "Developed a 3-tier automated system using client server architecture to fully automate the responses from an active super system for the company users",
         "Used Python's ML techniques on company's data stream to develop risk analysis models on valve leakages, pipe bursts and electric shutdown"
       ]
-    }
+    },
     {
       role: "Junior Web Developer",
       company: "Redot Global",
