@@ -53,7 +53,7 @@ function Header() {
           )}
           {viewEducation && (
             <li>
-              <a href="#educationInfo">Education</a>
+              <a href="#education">Education</a>
             </li>
           )}
           {viewOpenSource && (
