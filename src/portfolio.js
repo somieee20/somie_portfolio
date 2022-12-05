@@ -152,19 +152,7 @@ const workExperiences = {
         "Developed a 3-tier automated system using client server architecture to fully automate the responses from an active super system for the company users",
         "Used Python's ML techniques on company's data stream to develop risk analysis models on valve leakages, pipe bursts and electric shutdown"
       ]
-    },
-    {
-      role: "UI Designer",
-      company: "Techlogix",
-      companylogo: require("./assets/images/tech.png"),
-      date: "Nov 2020 - Feb 2021",
-      desc: "Techlogix is an information technology, consulting, and business solutions company that helps enterprises use innovation and emerging technologies to digitally transform their businesses.",
-      descBullets: [
-        "Developed collateral such as display, marketing and packaging materials to support product branding strategies",
-        "Coordinated, created and scheduled content, designs and periodic updates to company website",
-        "Developed creative design for marketing packages, including printing materials, brochures, social media posts, banners and signs"
-      ]
-    },
+    }
     {
       role: "Junior Web Developer",
       company: "Redot Global",
