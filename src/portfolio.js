@@ -20,7 +20,7 @@ const illustration = {
 };
 
 const greeting = {
-  username: "Somie",
+  username: "Usama Saleem",
   title: "Hi all, I'm Usama",
   subTitle: emoji(
     "An ardent Full Stack & AI Developer 🚀 having an experience of developing Artificially Intelligent Web and Mobile applications with JavaScript, Python and some other cool libraries and frameworks."
