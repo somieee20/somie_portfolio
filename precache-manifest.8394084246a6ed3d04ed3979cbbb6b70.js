@@ -1,43 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b36f459da92e5a39c27a060ff90f7f3e",
+    "revision": "952b73233c12b6f32b26f587cdda454e",
     "url": "/index.html"
   },
   {
-    "revision": "f9527c24d14000961155",
+    "revision": "822a8f3d155db05e8dad",
     "url": "/static/css/3.df879eac.chunk.css"
   },
   {
-    "revision": "6ca279f80a55edded95a",
+    "revision": "7a360a063e89eaaf9c31",
     "url": "/static/css/4.d7ceb645.chunk.css"
   },
   {
-    "revision": "3649434a9e426074b372",
+    "revision": "a506505a1e2eca64bc2b",
     "url": "/static/css/main.52a26c30.chunk.css"
   },
   {
-    "revision": "1ba29a31ed790e9144e3",
-    "url": "/static/js/2.6750e506.chunk.js"
+    "revision": "b513cf3bc5c65451930b",
+    "url": "/static/js/2.47332178.chunk.js"
   },
   {
     "revision": "b045256696e9edb485ef902b6be54c14",
-    "url": "/static/js/2.6750e506.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.47332178.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f9527c24d14000961155",
-    "url": "/static/js/3.6bb4b2b8.chunk.js"
+    "revision": "822a8f3d155db05e8dad",
+    "url": "/static/js/3.07f8f4b8.chunk.js"
   },
   {
-    "revision": "6ca279f80a55edded95a",
-    "url": "/static/js/4.a11c632d.chunk.js"
+    "revision": "7a360a063e89eaaf9c31",
+    "url": "/static/js/4.3834c8de.chunk.js"
   },
   {
-    "revision": "3649434a9e426074b372",
-    "url": "/static/js/main.c9c4d676.chunk.js"
+    "revision": "a506505a1e2eca64bc2b",
+    "url": "/static/js/main.f7618098.chunk.js"
   },
   {
-    "revision": "ad4807f433e0cc6f12fa",
-    "url": "/static/js/runtime-main.9d3f2436.js"
+    "revision": "53a8a5296169f68c6ab7",
+    "url": "/static/js/runtime-main.4134f3b7.js"
   },
   {
     "revision": "25ede0a68143e8c852fd634ce70c16b3",
@@ -82,10 +82,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "13780cdd0144cacdef25486e2c2503f8",
     "url": "/static/media/talksCardBack.13780cdd.svg"
-  },
-  {
-    "revision": "0ae36b5c0d08ec105cc95e65868fdb55",
-    "url": "/static/media/tech.0ae36b5c.png"
   },
   {
     "revision": "69feb01fbcc4fcdda65890a8ce987c97",
